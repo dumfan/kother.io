@@ -9,12 +9,12 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://kother.io'
+domain_name: 'http://www.kother.io'
 google_analytics: 'UA-16656646-4'
 #disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://kother.io'
+url:            'http://www.kother.io'
 author:         'Köther.io'
 
 permalink:       /:year/:title/
