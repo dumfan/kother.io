@@ -19,7 +19,9 @@ The site is in Swedish and it's available at [http://apk.kother.io/](http://apk.
 
 The source code can be found at [https://github.com/dumfan/apk](https://github.com/dumfan/apk)
 
-@wibron also built a Chrome extension to append this value to systembolaget.se, this is not yet published.
+@wibron also built a Chrome extension to append this value to systembolaget.se, it can be downloaded at [the Chrome store](https://chrome.google.com/webstore/detail/systembolaget-apk/njcbniedjlbhdnolbchleaocgkhojofl)
+
+Source code available at [https://github.com/dumfan/apk-chrome](https://github.com/dumfan/apk-chrome)
 
 Cheers,  
 @benjick
