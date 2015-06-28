@@ -10,7 +10,7 @@ authorTwitter: benjick
 
 So the weekend is over, I'm the only one awake this early and we've had a lot of fun. We've made one simple application (APK) and we've had three talks! @norrskal talked about bash, @wibron talked a bit about React and ES6 and I talked about Meteor.
 
-The application we built is a "alcohol per currency"-applikation which gives you an value on the worth of a product (beer, spirits, wine etc) taking only the ABV and price into consideration. All this data comes from our goverment owned liquor stores (Systembolaget) and we use a simple formula to calculate the APK value.
+The application we built is an "alcohol per currency" application which gives you a value on the worth of a beverage (beer, spirits, wine etc) taking only the ABV and price into consideration. All this data comes from our goverment owned liquor stores (Systembolaget) and we use a simple formula to calculate the APK value.
 {% highlight javascript %}
 var apk = (( alcohol / 100 ) * volume ) / price;
 {% endhighlight %}
