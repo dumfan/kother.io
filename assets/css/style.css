@@ -577,7 +577,7 @@ h2.month {
 	color: #5694f1;
 }
 
-#post-meta img.avatar {
+#post-meta img.avatar, img[src*="avatar"] {
   height: 36px;
   width: 36px;
   float: left;
